@@ -1,17 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
-#define MAX_VOTERS 10
-#define MAX_CANDIDATES 5
-#define PIN_LENGTH 5
-#define ID_LENGTH 10
-
-typedef struct {
-    char id[ID_LENGTH];
-    char pin[PIN_LENGTH];
-    int hasVoted;
-} Voter;
 
 typedef struct {
     char name[30];
