@@ -8,4 +8,5 @@
 
 4.They can be displayed either vertically or horizontally.
 
+
 5.Bar graphs are easy to understand and widely used in statistics and business reports.
