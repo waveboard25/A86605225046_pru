@@ -46,6 +46,7 @@ void printDivider() {
     printf("==========================================\n");
 }
 
+
 void displayLiveTally() {
     printDivider();
     printf("LIVE VOTE TALLY\n");
