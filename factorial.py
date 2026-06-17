@@ -24,7 +24,6 @@ print("Sum:", result)
 
 #VARIABLE SCOPE #GLOBAL SCOPE:
 
-
 global_var = 10
 def my_function():
     print(global_var) # Accessing the global variable
