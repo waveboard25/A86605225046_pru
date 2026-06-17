@@ -15,7 +15,6 @@ def add_numbers(a, b): # 'a' and 'b' are parameters
 result = add_numbers(5, 3) # 5 and 3 are arguments
 print("Sum:", result)
 
-
 #VARIABLE SCOPE #GLOBAL SCOPE:
 
 global_var = 10
